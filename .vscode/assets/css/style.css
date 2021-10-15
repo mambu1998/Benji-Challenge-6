@@ -75,3 +75,20 @@
   border-radius: 5px;
   color: white;
 }
+
+/*  To make it responsive accordingly in tab */
+@media only screen and (max-width: 996px) {
+  #search-city {
+    width: 100%;
+  }
+  #search-button {
+    width: 100%;
+  }
+}
+/*  To make it responsive accordingly in mobile */
+
+@media only screen and (max-width: 576px) {
+  #fiveDayForecastUl {
+    justify-content: center;
+  }
+}
