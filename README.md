@@ -31,4 +31,8 @@ THEN I am again presented with current and future conditions for that city
 
 # Git Hub Link
 
+https://github.com/mambu1998/Benji-Challenge-6
+
 # Git Hub Live Link
+
+https://mambu1998.github.io/Benji-Challenge-6/
